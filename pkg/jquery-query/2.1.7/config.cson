@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2.1.7': 'initial import'
+  id: 'jquery-query'
+  main:
+    js: 'main.js'
+    css: null
+  name: 'jQuery Query'
+  type: 'library'
+  version: '2.1.7'
+}

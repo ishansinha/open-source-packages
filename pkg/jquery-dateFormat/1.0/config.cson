@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.0': 'initial import'
+  id: 'jquery-dateFormat'
+  main:
+    js: 'main.js'
+    css: null
+  name: 'jQuery Date Format'
+  type: 'library'
+  version: '1.0'
+}

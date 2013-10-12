@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.6': 'initial import'
+  id: 'jquery-social-media-tabs'
+  main:
+    js: 'jquery.social-media-tabs-1.6.js'
+    css: 'jquery.social-media-tabs-1.6.css'
+  name: 'jQuery Social Media Tabs'
+  type: 'library'
+  version: '1.6'
+}

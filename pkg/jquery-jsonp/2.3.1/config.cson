@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2.3.1': 'initial import'
+  id: 'jquery-jsonp'
+  main:
+    js: 'jquery.jsonp.js'
+    css: null
+  name: 'jQuery JSONP'
+  type: 'library'
+  version: '2.3.1'
+}

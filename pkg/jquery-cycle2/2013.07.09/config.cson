@@ -1,0 +1,12 @@
+{
+  changelog:
+    '2013.07.09': 'initial import'
+  id: 'jquery-cycle2'
+  main:
+    js: 'main.coffee'
+    css: null
+  name: 'jQuery Cycle2'
+  type: 'library'
+  version: '2013.07.09'
+
+}

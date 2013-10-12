@@ -1,0 +1,12 @@
+{
+  changelog:
+    '1.8.3': 'initial import'
+    '1.9.0': 'update'
+  id: 'jquery'
+  main:
+    js: 'main.js'
+    css: null
+  name: 'jQuery'
+  type: 'library'
+  version: '1.9.0'
+}

@@ -1,0 +1,14 @@
+{
+  category: 'audio'
+  changelog:
+    '2.97a': 'initial import'
+    '2.97a.20130512': ''
+  id: 'soundmanager'
+  main:
+    js: 'public/script/soundmanager2.js'
+    css: null
+  name: 'SoundManager'
+  tags: ['audio', 'soundmanager']
+  type: 'library'
+  version: '2.97a.20130512'
+}

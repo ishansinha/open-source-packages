@@ -1,0 +1,11 @@
+{
+  changelog:
+    '0.9.10': 'https://github.com/documentcloud/backbone/compare/0.9.9...0.9.10'
+  id: 'backbone'
+  main:
+    js: 'backbone.js'
+    css: null
+  name: 'Backbone'
+  type: 'library'
+  version: '0.9.10'
+}

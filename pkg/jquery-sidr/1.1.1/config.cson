@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.1.1': 'initial import'
+  id: 'jquery-sidr'
+  main:
+    js: 'jquery.sidr.min.js'
+    css: null
+  name: 'jQuery sidr'
+  type: 'library'
+  version: '1.1.1'
+}

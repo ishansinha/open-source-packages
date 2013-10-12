@@ -1,0 +1,22 @@
+INCLUDES
+
+Mondernizr 2.6.2 Custom Build
+
+CSS3
+ - @font-face
+ - background-size
+ - border-radius
+ - box-shadow
+ - rgba
+ - CSS Gradients
+ - CSS 2D Transforms
+ - CSS 3D Transforms
+
+HTML5
+ - History (pushState)
+ - Web Sockets
+
+Extra
+ - html5shiv v3.6
+ - Modernizer.load
+ - Add CSS Classes

@@ -1,0 +1,12 @@
+{
+  changelog:
+    '2.2.2': ''
+    '2.3.1': ''
+  id: 'bootstrap'
+  main:
+    js: 'bootstrap.js'
+    css: 'bootstrap.css'
+  name: 'Bootstrap'
+  type: 'library'
+  version: '2.3.1'
+}

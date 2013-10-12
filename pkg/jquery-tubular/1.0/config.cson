@@ -1,0 +1,12 @@
+{
+  changelog:
+    '1.0': 'initial import'
+  id: 'jquery-tubular'
+  description: 'Full Screen Youtube Player'
+  main:
+    js: 'jquery.tubular.js'
+    css: null
+  name: 'jQuery Tubular'
+  type: 'library'
+  version: '1.0'
+}

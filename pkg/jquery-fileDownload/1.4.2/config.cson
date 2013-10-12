@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.4.2': 'initial import'
+  id: 'jquery-fileDownload'
+  main:
+    js: 'jquery.fileDownload.js'
+    css: null
+  name: 'jQuery File Download'
+  type: 'library'
+  version: '1.4.2'
+}

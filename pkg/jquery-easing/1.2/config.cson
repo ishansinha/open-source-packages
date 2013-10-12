@@ -1,0 +1,12 @@
+{
+  changelog:
+    '1.2': 'initial import'
+  id: 'jquery-easing'
+  main:
+    js: 'jquery.easing.1.2.js'
+    css: null
+  name: 'jQuery Easing'
+  type: 'library'
+  version: '1.2'
+
+}

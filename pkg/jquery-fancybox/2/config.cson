@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2': 'initial import'
+  id: 'jquery-fancybox'
+  main:
+    js: 'jquery.fancybox.js'
+    css: 'jquery.fancybox.css'
+  name: 'jQuery Fancybox 2'
+  type: 'library'
+  version: '2'
+}

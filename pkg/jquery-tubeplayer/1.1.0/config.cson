@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.1.0': 'initial import'
+  id: 'jquery-tubeplayer'
+  main:
+    js: 'jquery.tubeplayer.js'
+    css: null
+  name: 'jQuery TubePlayer'
+  type: 'library'
+  version: '1.1.0'
+}

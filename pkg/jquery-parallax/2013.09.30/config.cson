@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2013.09.30': 'initial import'
+  id: 'jquery-parallax'
+  main:
+    js: 'jquery.parallax.js'
+    css: null
+  name: 'jQuery Parallax'
+  type: 'library'
+  version: '2013.09.30'
+}

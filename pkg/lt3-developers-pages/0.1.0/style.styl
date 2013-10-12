@@ -1,0 +1,66 @@
+@import 'nib'
+
+.exports
+  padding 20px
+  .back-to-home
+    border-bottom 1px solid #555
+
+  .menu
+    > li
+      font-size 28px
+      > ul
+        list-style circle
+        margin-left 40px
+        > li
+          font-size 16px
+      
+  .simple-page
+    &.font-arial
+      font-family Arial
+    &.font-bebas
+      font-family Bebas
+    > .item
+      border-bottom 1px solid #555
+      margin-bottom 10px
+      padding-bottom 10px
+      > ul > li > .item
+        border-top 1px solid #555
+        margin-left 20px
+        margin-top 10px
+        > h2
+          font-size 18px
+          line-height 48px
+        > p
+          font-size 12px
+        > ul > li > .item
+          margin-left 40px
+          > h2
+            font-size 14px
+            line-height 30px
+          > p
+            font-size 10px
+
+  .tutorial-page
+    &.font-arial
+      font-family Arial
+    &.font-bebas
+      font-family Bebas
+    > .steps
+      > .step
+        > h2
+          font-size 18px
+          line-height 48px
+        > .content
+          img
+            border 2px solid #f00038
+            max-width 100%
+          pre
+            background white
+            font-family 'Courier New'
+            font-size 12px
+            margin 10px 0px 10px 50px
+            padding 5px 10px
+          ul
+            margin 10px 0px 10px 50px
+            list-style circle
+

@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2013.01.07': 'initial import'
+  id: 'animate'
+  main:
+    js: null
+    css: 'animate.css'
+  name: 'Animate'
+  type: 'library'
+  version: '2013.01.07'
+}

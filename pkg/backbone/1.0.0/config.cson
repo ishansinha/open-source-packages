@@ -1,0 +1,12 @@
+{
+  changelog:
+    '0.9.10': 'https://github.com/documentcloud/backbone/compare/0.9.9...0.9.10'
+    '1.0.0': 'https://github.com/documentcloud/backbone/compare/0.9.10...1.0.0'
+  id: 'backbone'
+  main:
+    js: 'main.coffee'
+    css: null
+  name: 'Backbone'
+  type: 'library'
+  version: '1.0.0'
+}

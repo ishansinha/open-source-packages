@@ -1,0 +1,13 @@
+{
+  category: 'string'
+  changelog:
+    '2.3.0': 'initial import'
+  id: 'underscore-string'
+  main:
+    js: 'underscore.string.js'
+    css: null
+  name: 'Underscore String'
+  tags: ['string', 'underscore', 'underscore.string']
+  type: 'library'
+  version: '2.3.0'
+}

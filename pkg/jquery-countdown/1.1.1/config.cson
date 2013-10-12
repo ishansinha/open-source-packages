@@ -1,0 +1,12 @@
+{
+  changelog:
+    '1.1.1': 'initial import'
+  id: 'jquery-countdown'
+  main:
+    js: 'jquery.jcountdown.js'
+    css: 'jquery.jcountdown.css'
+  name: 'jQuery Countdown'
+  type: 'library'
+  version: '1.1.1'
+
+}

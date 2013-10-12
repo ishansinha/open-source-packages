@@ -1,0 +1,8 @@
+{
+  changelog:
+    '8.8.5': 'initial import'
+  id: 'jquery-fileupload'
+  name: 'jQuery File Upload'
+  type: 'library'
+  version: '8.8.5'
+}

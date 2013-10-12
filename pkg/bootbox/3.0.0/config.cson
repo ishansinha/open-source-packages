@@ -1,0 +1,11 @@
+{
+  changelog:
+    '3.0.0': 'initial import'
+  id: 'bootbox'
+  main:
+    js: 'bootbox.js'
+    css: null
+  name: 'Bootbox'
+  type: 'library'
+  version: '3.0.0'
+}

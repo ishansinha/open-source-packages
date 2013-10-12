@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.0.0': 'initial import'
+  id: 'youtube-tv'
+  main:
+    js: 'ytv.js'
+    css: 'ytv.css'
+  name: 'Youtube TV'
+  type: 'library'
+  version: '1.0.0'
+}

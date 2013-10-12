@@ -1,0 +1,8 @@
+{
+  changelog:
+    '4.2013.07.25.a': 'initial import'
+  id: 'anytime'
+  name: 'Anytime.js'
+  type: 'library'
+  version: '4.2013.07.25.a'
+}

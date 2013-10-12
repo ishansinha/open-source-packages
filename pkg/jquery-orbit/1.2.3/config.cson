@@ -1,0 +1,13 @@
+{
+  category: 'content slider'
+  changelog:
+    '1.2.3': 'initial import'
+  description: 'Content Slider'
+  id: 'jquery-orbit'
+  main:
+    js: 'main.js'
+    css: 'style.css'
+  name: 'jQuery Orbit'
+  type: 'library'
+  version: '1.2.3'
+}

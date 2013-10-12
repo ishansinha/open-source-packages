@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.3.1': 'initial import'
+  id: 'jquery-cookie'
+  main:
+    js: 'jquery.cookie.js'
+    css: null
+  name: 'jQuery Cookie'
+  type: 'library'
+  version: '1.3.1'
+}

@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2013.04.23': 'initial import'
+  id: 'modernizr'
+  main:
+    js: 'js/modernizr.js'
+    css: null
+  name: 'Modernizr'
+  type: 'library'
+  version: '2013.04.23'
+}

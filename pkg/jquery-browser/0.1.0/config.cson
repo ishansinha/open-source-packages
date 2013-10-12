@@ -1,0 +1,11 @@
+{
+  changelog:
+    '0.1.0': 'initial import'
+  id: 'jquery-browser'
+  main:
+    js: 'main.js'
+    css: null
+  name: 'jQuery Browser'
+  type: 'library'
+  version: '0.1.0'
+}

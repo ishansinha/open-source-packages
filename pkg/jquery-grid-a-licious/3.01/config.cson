@@ -1,0 +1,11 @@
+{
+  changelog:
+    '3.01': 'initial import'
+  id: 'jquery-grid-a-licious'
+  main:
+    js: 'jquery.grid-a-licious.js'
+    css: null
+  name: 'jQuery Grid-a-Licious'
+  type: 'library'
+  version: '3.01'
+}

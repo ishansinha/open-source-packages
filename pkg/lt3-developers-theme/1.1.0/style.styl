@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'Bebas';
+  src: url('http://www.lessthan3.com/font/bebas.eot');
+  src: local('☺'), url('http://www.lessthan3.com/font/bebas.woff') format('woff'), url('http://www.lessthan3.com/font/bebas.ttf') format('truetype'), url('http://www.lessthan3.com/font/bebas.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import 'nib'
+
+global-reset()
+nested-reset()
+reset-font()
+reset-box-model()
+reset-body()
+reset-table()
+reset-table-cell()
+reset-html5()
+
+// colors
+$text_color_lighter = lighten($text_color, 10)
+$text_color_darker = darken($text_color, 10)
+$twitter_blue = #4099FF
+
+// sizes
+$header_height = 50px
+
+// global styles
+html.exports
+  > body
+    background-color $background_color
+    background-image url($imprint)
+    background-position top 100px right 100px
+    background-repeat no-repeat
+
+    font-family Bebas
+    color $text_color
+    letter-spacing 1px
+    line-height inherit
+    word-spacing 3px
+
+    h1, h2, h3, h4, h5, h6
+      color $primary_color
+    
+    h1
+      font-size 36px
+      line-height 72px
+    h2
+      font-size 24px
+      line-height 48px
+    h3
+      font-size 20px
+      line-height 40px
+    h4
+      font-size 16px
+      line-height 32px
+    h5
+      font-size 14px
+      line-height 28px
+    a
+      color $primary_color
+      cursor pointer
+      text-decoration none
+      transition all .2s ease-in
+      &:hover
+        color darken($primary_color, 10)
+    ul, li, h1, h2, h3, h4, h5, h6
+      > a
+        border-left 3px solid rgba($primary_color, 0)
+        border-right 3px solid rgba($primary_color, 0)
+        &:hover
+          border-left 3px solid darken($primary_color, 10)
+          border-right 3px solid darken($primary_color, 10)
+          padding-left 4px
+          padding-right 4px
+
+    li
+      line-height inherit
+
+// header
+#header
+  > #navigation
+    display none
+  > .bar
+    background $header_color
+    box-sizing border-box
+    height $header_height
+    position relative
+    text-align left
+    z-index 20
+    > .inner
+      margin 0 auto
+      width 960px
+      > .logo
+        cursor pointer
+        display inline-block
+        float left
+        margin-right 20px
+      > .title
+        display inline-block
+        font-size 40px
+        line-height $header_height
+
+// content
+#content
+  background $content_color
+  box-shadow 0px 0px 30px black
+  height 100%
+  margin 0 auto
+  min-height 720px
+  width 960px
+
+// footer
+#footer
+  .inner
+    border-top 2px solid black
+    margin 20px auto
+    text-align right
+    width 940px
+

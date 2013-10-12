@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2.0': 'initial import'
+  id: 'socialite'
+  main:
+    js: 'socialite.min.js'
+    css: 'socialite.css'
+  name: 'Socialite'
+  type: 'library'
+  version: '2.0'
+}

@@ -1,0 +1,11 @@
+{
+  changelog:
+    '2.0': 'initial import'
+  id: 'youmax'
+  main:
+    js: 'youmax.min.js'
+    css: null
+  name: 'Youmax'
+  type: 'library'
+  version: '2.0'
+}

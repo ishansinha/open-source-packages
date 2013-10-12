@@ -1,0 +1,15 @@
+{
+  author: 'rstacruz'
+  category: 'css3 transforms'
+  changelog:
+    '0.9.9': 'initial import'
+  description: 'Super-smooth CSS3 transformations and transitions for jQuery'
+  repo: 'https://github.com/rstacruz/jquery.transit'
+  id: 'jquery-transit'
+  main:
+    js: 'main.js'
+    css: null
+  name: 'jQuery Transit'
+  type: 'library'
+  version: '0.9.9'
+}

@@ -1,0 +1,52 @@
+{
+  author: 'Bryant Williams'
+  changelog:
+    '0.1.0': ''
+  contact: 'bryant@lessthan3.com'
+  description: 'Developers Pages'
+  id: 'lt3-developers-pages'
+  pages:
+    index:
+      menu: [{
+        title: {type: 'string', legend: true}
+        page: 'string'
+        link: 'string'
+        menu: [{
+          title: {type: 'string', legend: true}
+          page: 'string'
+          link: 'string'
+        }]
+      }]
+    simple:
+      title: 'string'
+      description: {type: 'string', editor: 'textarea'}
+      font:
+        type: 'string'
+        enum: ['bebas', 'arial']
+      links: [{
+        title: {type: 'string', legend: true}
+        link: 'string'
+        description: {type: 'string', editor: 'textarea'}
+        links: [{
+          title: {type: 'string', legend: true}
+          link: 'string'
+          description: {type: 'string', editor: 'textarea'}
+        }]
+      }]
+    static:
+      html: 'html'
+    tutorial:
+      title: 'string'
+      description: {type: 'string', editor: 'textarea'}
+      font:
+        type: 'string'
+        enum: ['bebas', 'arial']
+      steps: [{
+        title: {type: 'string', legend: true}
+        content: 'html'
+      }]
+
+  name: 'Developer Pages'
+  type: 'app'
+  version: '0.1.0'
+}

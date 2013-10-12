@@ -1,0 +1,11 @@
+{
+  changelog:
+    '1.5.4': 'initial import'
+  id: 'jquery-mixitup'
+  main:
+    js: 'jquery.mixitup.js'
+    css: null
+  name: 'MixItUp'
+  type: 'library'
+  version: '1.5.4'
+}

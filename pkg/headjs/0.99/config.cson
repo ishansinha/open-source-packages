@@ -1,0 +1,11 @@
+{
+  changelog:
+    '0.99': 'initial import'
+  id: 'headjs'
+  main:
+    js: 'public/head.js'
+    css: null
+  name: 'head.js'
+  type: 'library'
+  version: '0.99'
+}

@@ -1,0 +1,13 @@
+{
+  changelog:
+    '1.3.3': 'initial import'
+    '1.4.4': ''
+  id: 'underscore'
+  main:
+    js: 'underscore.js'
+    css: null
+  name: 'Underscore'
+  tags: ['underscore']
+  type: 'library'
+  version: '1.4.4'
+}
